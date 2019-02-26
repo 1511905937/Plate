@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\bin\Release\车牌识别.exe
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\bin\Release\车牌识别.pdb
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\bin\Release\AipSdk.dll
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\bin\Release\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\bin\Release\AipSdk.xml
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\bin\Release\Newtonsoft.Json.xml
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\车牌识别.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\车牌识别.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\车牌识别.exe
+C:\Documents and Settings\Administrator\桌面\C#车牌识别\车牌识别\车牌识别\obj\x86\Release\车牌识别.pdb
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.exe
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.pdb
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\车牌识别.exe
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\车牌识别.pdb
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\AipSdk.dll
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\AipSdk.xml
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\Newtonsoft.Json.xml
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.Form1.resources
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\最近\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\车牌识别.exe
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\车牌识别.pdb
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\AipSdk.dll
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\AipSdk.xml
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.Form1.resources
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.Properties.Resources.resources
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.exe
+C:\Users\Administrator\Desktop\车牌shibie\C#车牌识别17.08.25(1)\C#车牌识别17.08.25\车牌识别\车牌识别\obj\x86\Release\车牌识别.pdb
